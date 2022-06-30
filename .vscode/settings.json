@@ -4,7 +4,6 @@
   "git.enableSmartCommit": true,
   "git.autofetch": true,
   "editor.detectIndentation": false,
-  "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "typescript.updateImportsOnFileMove.enabled": "never",
   "search.exclude": {
